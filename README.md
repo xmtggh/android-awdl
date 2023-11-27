@@ -3,4 +3,4 @@
 ![支持](https://github.com/ExDoc/android-awdl/blob/main/support.jpg)
 
 以下是airplay 使用展示
-![演示]([https://github.com/ExDoc/android-awdl/blob/main/support.jpg](https://github.com/ExDoc/android-awdl/blob/main/show.jpg)https://github.com/ExDoc/android-awdl/blob/main/show.jpg)
+![演示](https://github.com/ExDoc/android-awdl/blob/main/show.jpg)
