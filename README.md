@@ -9,4 +9,5 @@
 
 ## 探讨
 技术讨论
-![探讨](https://github.com/ExDoc/android-awdl/blob/main/contact.jpg)
+<img src="https://github.com/ExDoc/android-awdl/blob/main/contact.jpg" width="80px" height="80px">
+
