@@ -1,2 +1,6 @@
 # android-awdl
-android 版awdl 协议移植，awdl 苹果底层配网协议，支持苹果点对点与设备交互。无网络情况下，airplay投屏，airdrop传输文件等
+本项目为[adwl](https://github.com/seemoo-lab/owl) 的android 移植版本。awdl 协议主要用于组网，苹果生态中很多技术都有依赖，如下图
+![支持](https://github.com/ExDoc/android-awdl/blob/main/support.jpg)
+
+以下是airplay 使用展示
+![演示]([https://github.com/ExDoc/android-awdl/blob/main/support.jpg](https://github.com/ExDoc/android-awdl/blob/main/show.jpg)https://github.com/ExDoc/android-awdl/blob/main/show.jpg)
